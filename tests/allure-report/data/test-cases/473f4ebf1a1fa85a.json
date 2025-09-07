@@ -1,0 +1,135 @@
+{
+  "uid" : "473f4ebf1a1fa85a",
+  "name" : "Переход в историю заказов",
+  "fullName" : "test_profile.TestProfile#test_go_to_order_history",
+  "historyId" : "60318f708f42922fb4d0240a0b36f194",
+  "time" : {
+    "start" : 1757249925514,
+    "stop" : 1757249928240,
+    "duration" : 2726
+  },
+  "description" : "Проверка перехода в историю заказов",
+  "descriptionHtml" : "<p>Проверка перехода в историю заказов</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1757249914725,
+      "stop" : 1757249915965,
+      "duration" : 1240
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1757249915965,
+      "stop" : 1757249925513,
+      "duration" : 9548
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "api_client",
+    "time" : {
+      "start" : 1757249915965,
+      "stop" : 1757249915965,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1757249928242,
+      "stop" : 1757249930505,
+      "duration" : 2263
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setup::0",
+    "time" : {
+      "start" : 1757249928240,
+      "stop" : 1757249928240,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Личный кабинет"
+  }, {
+    "name" : "suite",
+    "value" : "test_profile"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProfile"
+  }, {
+    "name" : "host",
+    "value" : "RUMSKLCG1160Z8S"
+  }, {
+    "name" : "thread",
+    "value" : "26324-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_profile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "driver",
+    "value" : "'chrome'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "473f4ebf1a1fa85a.json",
+  "parameterValues" : [ "'chrome'" ]
+}

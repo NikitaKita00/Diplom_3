@@ -1,0 +1,135 @@
+{
+  "uid" : "7c280125074ffdaa",
+  "name" : "Переход в историю заказов",
+  "fullName" : "test_profile.TestProfile#test_go_to_order_history",
+  "historyId" : "9c411a1b6bfc3d6eaaf4df7af9925305",
+  "time" : {
+    "start" : 1757249946339,
+    "stop" : 1757249948562,
+    "duration" : 2223
+  },
+  "description" : "Проверка перехода в историю заказов",
+  "descriptionHtml" : "<p>Проверка перехода в историю заказов</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1757249930509,
+      "stop" : 1757249936263,
+      "duration" : 5754
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1757249936263,
+      "stop" : 1757249946338,
+      "duration" : 10075
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "api_client",
+    "time" : {
+      "start" : 1757249936263,
+      "stop" : 1757249936263,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1757249948564,
+      "stop" : 1757249951262,
+      "duration" : 2698
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setup::0",
+    "time" : {
+      "start" : 1757249948563,
+      "stop" : 1757249948563,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Личный кабинет"
+  }, {
+    "name" : "suite",
+    "value" : "test_profile"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProfile"
+  }, {
+    "name" : "host",
+    "value" : "RUMSKLCG1160Z8S"
+  }, {
+    "name" : "thread",
+    "value" : "26324-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_profile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "driver",
+    "value" : "'firefox'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c280125074ffdaa.json",
+  "parameterValues" : [ "'firefox'" ]
+}

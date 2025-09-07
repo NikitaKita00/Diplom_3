@@ -1,0 +1,120 @@
+{
+  "uid" : "efca679ce6be9715",
+  "name" : "Оформление заказа",
+  "fullName" : "test_constructor.TestConstructor#test_make_order",
+  "historyId" : "16305852ef6e7c11bd6802c11760c470",
+  "time" : {
+    "start" : 1757249720259,
+    "stop" : 1757249733033,
+    "duration" : 12774
+  },
+  "description" : "Проверка оформления заказа",
+  "descriptionHtml" : "<p>Проверка оформления заказа</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1757249712586,
+      "stop" : 1757249713827,
+      "duration" : 1241
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1757249713828,
+      "stop" : 1757249720258,
+      "duration" : 6430
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1757249733035,
+      "stop" : 1757249735283,
+      "duration" : 2248
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setup::0",
+    "time" : {
+      "start" : 1757249733034,
+      "stop" : 1757249733034,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Основной функционал"
+  }, {
+    "name" : "suite",
+    "value" : "test_constructor"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestConstructor"
+  }, {
+    "name" : "host",
+    "value" : "RUMSKLCG1160Z8S"
+  }, {
+    "name" : "thread",
+    "value" : "26324-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_constructor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "driver",
+    "value" : "'chrome'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "efca679ce6be9715.json",
+  "parameterValues" : [ "'chrome'" ]
+}

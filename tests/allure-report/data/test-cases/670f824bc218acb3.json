@@ -1,0 +1,120 @@
+{
+  "uid" : "670f824bc218acb3",
+  "name" : "Закрытие модального окна клавишей ESC",
+  "fullName" : "test_constructor.TestConstructor#test_close_modal_with_esc",
+  "historyId" : "732209ef012314bf59a905b00598b674",
+  "time" : {
+    "start" : 1757249603493,
+    "stop" : 1757249611712,
+    "duration" : 8219
+  },
+  "description" : "Проверка закрытия модального окна клавишей ESC",
+  "descriptionHtml" : "<p>Проверка закрытия модального окна клавишей ESC</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1757249596900,
+      "stop" : 1757249603492,
+      "duration" : 6592
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "driver",
+    "time" : {
+      "start" : 1757249591126,
+      "stop" : 1757249596900,
+      "duration" : 5774
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "setup::0",
+    "time" : {
+      "start" : 1757249611713,
+      "stop" : 1757249611713,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1757249611714,
+      "stop" : 1757249614424,
+      "duration" : 2710
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Основной функционал"
+  }, {
+    "name" : "suite",
+    "value" : "test_constructor"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestConstructor"
+  }, {
+    "name" : "host",
+    "value" : "RUMSKLCG1160Z8S"
+  }, {
+    "name" : "thread",
+    "value" : "26324-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_constructor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "driver",
+    "value" : "'firefox'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "670f824bc218acb3.json",
+  "parameterValues" : [ "'firefox'" ]
+}

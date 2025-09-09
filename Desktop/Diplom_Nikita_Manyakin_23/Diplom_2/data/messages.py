@@ -1,5 +1,0 @@
-MSG_USER_EXISTS = "User already exists"
-MSG_REQUIRED_FIELDS = "Email, password and name are required fields"
-MSG_INGREDIENT_IDS_REQUIRED = "Ingredient ids must be provided"
-MSG_UNAUTHORISED = "You should be authorised"
-MSG_BAD_CREDENTIALS = "email or password are incorrect"

@@ -1,1 +1,0 @@
-Ошибка при перетаскивании с offset: name 'By' is not defined
